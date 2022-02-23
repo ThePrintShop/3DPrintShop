@@ -23,39 +23,7 @@ header
     align-items: center;
     z-index: 10000;
 }
-header .logo
-{
-    color: #fff;
-    font-weight: 700;
-    text-decoration: none;
-    font-size: 35px;
-    Letter-spacing: 2px;
-}
-header ul
-{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-header ul li
-{
-    list-style: none;
-    margin-left: 20px;
-}
-header ul li a
-{
-    text-decoration: none;
-    padding: 6px 15px;
-    color: rgb(255, 255, 255);
-    border-radius: 20px;
-    font-weight: bold;
-}
-header ul li a:hover,
-header ul li a.active
-{
-    background: #ADD8E6;
-    color: #fff;
-}
+
 section
 {
     position: realtive;
@@ -76,7 +44,7 @@ section
     z-index: 9;
 }
 
-#particles-js{
+#Item1{
     width: 100%;
     height: 100%;
     position: absolute;
