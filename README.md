@@ -1,1 +1,1 @@
-3DPrintShop, Credits to Adel&Joey.  Link To website: https://theprintshop.github.io/3DPrintShop/
+3DPrintShop, Credits to Adel&Joey.  Link To website: https://theprintshop.github.io/
